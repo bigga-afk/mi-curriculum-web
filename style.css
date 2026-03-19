@@ -51,13 +51,13 @@ h2 {
 
 /* ===== Enlaces accesibles ===== */
 a {
-    color: #1a73e8;
+    color: hsl(214, 94%, 19%);
     text-decoration: underline;
 }
 
 a:hover,
 a:focus {
-    color: #0c47a1;
+    color: #a10c0c;
     text-decoration: underline;
     outline: 3px solid #ffbf47;
     outline-offset: 2px;
